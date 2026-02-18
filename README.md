@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student  
+- 🎓 B.Tech CSE final year Student  
 - 💻 Passionate about building scalable web applications  
 - 🔥 Strong foundation in DSA & Problem Solving  
-- 🌱 Currently learning **Next.js & Advanced Backend Architecture**
+- 🌱 Currently learning **DevOps & System Design**
 
 ---
 
@@ -43,7 +43,14 @@
 ## 🔌 APIs & Authentication
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT Auth](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ---
 

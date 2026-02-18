@@ -1,16 +1,51 @@
-## Hi there 👋
+# 🚀 Raghvendra Singh
 
-<!--
-**rsraghu5123/rsraghu5123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+Passionate about building scalable web applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+JavaScript | TypeScript | Python | C++
+
+**Frontend:**  
+React | Next.js | Tailwind CSS
+
+**Backend:**  
+Node.js | Express.js
+
+**Database:**  
+MongoDB | MySQL
+
+---
+
+## 🚀 Projects
+
+### 🔹 E-Library System
+- Built a full-stack web application for managing digital books.
+- Role-based authentication (Admin/User).
+- Tech: React, Node.js, MongoDB
+
+### 🔹 Hospital Management System
+- DBMS-based project for patient and doctor management.
+- Secure data handling and CRUD operations.
+
+### 🔹 Student Submission Form (Django)
+- Form handling with backend validation.
+- Database integration and admin panel.
+
+---
+
+## 📊 GitHub Stats
+
+![Raghvendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/your-link  
+Email: your@email.com

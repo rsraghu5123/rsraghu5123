@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raghvendra%20Singh&fontSize=58&fontColor=fff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20React&descAlignY=60&descSize=18&animation=twinkling" />
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+Production-Ready+Web+Apps;⚛️+React+%26+Next.js+Specialist;🔧+MERN+Stack+Engineer;📦+3+Internships+%7C+Live+Projects+in+Production;🏆+Samsung+Innovation+Campus+Certified;💡+Open+to+Full-time+SDE+Roles" />
-</p>
+
 
 <p>
 <a href="https://www.linkedin.com/in/raghvendra-singh-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -133,11 +131,7 @@ const raghvendra: Developer = {
 |:---:|:---:|:---:|:---:|
 | **453+** | **14 days** | **400+** | **6+** |
 
-</div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rsraghu5123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
 
 ---
 
@@ -156,14 +150,6 @@ const raghvendra: Developer = {
 ---
 
 ## 🧭 Experience Timeline
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Apps+🚀;Always+Learning+💡;Shipping+Production+Code+⚡;3+Internships+%7C+Real+Impact+📈" />
-
-</div>
-
-<br/>
 
 🟣 **Full-Stack Developer Intern — Astronetra** &nbsp;&nbsp; ![ROLE](https://img.shields.io/badge/FULL--STACK_INTERN-8B5CF6?style=flat-square)
 

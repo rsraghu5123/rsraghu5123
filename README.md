@@ -128,26 +128,7 @@ const raghvendra: Developer = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsraghu5123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsraghu5123&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=rsraghu5123&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8b949e&stroke=21262d" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsraghu5123&bg_color=0d1117&color=00D9FF&line=7c3aed&point=F1E05A&area=true&area_color=7c3aed30&hide_border=true&radius=8&custom_title=Raghvendra%27s%20Contribution%20Graph%20%7C%20453%2B%20Total%20Contributions" />
-
-</div>
-
-<div align="center">
 
 | 🔥 Total Contributions | ⭐ Longest Streak | 💻 GitHub Commits | 🏠 Repos Contributed To |
 |:---:|:---:|:---:|:---:|
@@ -229,19 +210,12 @@ const raghvendra: Developer = {
 
 | 🏫 Institution | 📚 Program | 📅 Period |
 |---|---|---|
-| DDU Gorakhpur University | B.Tech in Computer Science Engineering *(Pursuing)* | Jun 2022 – Present |
+| DDU Gorakhpur University | B.Tech in Computer Science Engineering *(Pursuing)* | Jun 2022 – JUn 2026 |
 | Samsung Innovation Campus | **Big Data Certification** 🏅 | 2024 |
 | Microsoft & DSCI | **Cybersecurity Awareness Program** 🏅 | 2024 |
 
 ---
 
-## 🎯 LeetCode Stats
-
-<div align="center">
-<a href="https://leetcode.com/u/rsraghu5123/">
-  <img src="https://leetcard.jacoblin.cool/rsraghu5123?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" />
-</a>
-</div>
 
 ---
 

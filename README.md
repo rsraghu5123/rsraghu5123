@@ -60,25 +60,58 @@ const raghvendra: Developer = {
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=rsraghu5123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsraghu5123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+<!-- ── Stats + Languages side by side ── -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsraghu5123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsraghu5123&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
+
+<!-- ── Streak Stats ── -->
 <img src="https://streak-stats.demolab.com/?user=rsraghu5123&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8b949e&stroke=21262d" />
+
 </div>
 
 <div align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsraghu5123&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF20&hide_border=true&radius=8&custom_title=Raghvendra%27s%20Contribution%20Graph%20(339%2B%20contributions%20in%20last%20year)" />
+
+<!-- ── Activity Graph ── -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rsraghu5123&bg_color=0d1117&color=00D9FF&line=7c3aed&point=F1E05A&area=true&area_color=7c3aed30&hide_border=true&radius=8&custom_title=Raghvendra%27s%20Contribution%20Graph%20%7C%20453%2B%20Contributions%20Since%20May%202023" />
+
 </div>
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rsraghu5123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Summary
+
+<div align="center">
+
+| Metric | Value |
+|:---|:---:|
+| 🔥 Total Contributions (May 2023 – Present) | **453+** |
+| 📅 Contributions Last Year | **339** |
+| 📆 Contributions in 2025 | **114** |
+| 💻 GitHub Commits | **350+** |
+| 🏠 Repos Contributed To | **6+** |
+| ⭐ Longest Streak | **14 days** *(Sep 18 – Oct 1, 2025)* |
+
+</div>
+
+---
 ## 🏆 Achievements at a Glance
 
 <div align="center">

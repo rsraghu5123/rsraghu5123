@@ -15,7 +15,6 @@
 <a href="https://www.instagram.com/raghvn45"><img src="https://img.shields.io/badge/raghvn45-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rsraghu5123&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
